@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import pyplot as plt, patches
-from matplotlib.animation import FuncAnimation 
 
 def main():
     # initializing a figure in 

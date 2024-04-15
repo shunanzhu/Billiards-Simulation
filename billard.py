@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import pyplot as plt, patches
-from matplotlib.animation import FuncAnimation 
 
 def main(): 
     # The main function will run each simulation case one after another back to back 
